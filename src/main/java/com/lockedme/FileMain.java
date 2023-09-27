@@ -6,15 +6,16 @@ public class FileMain {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(System.in);
+        FileManager fm = new FileManager();
 
         while(true) {
             System.out.println();
-            System.out.println("LockedMe.com");
+            System.out.println("\t\tLockedMe.com");
             System.out.println("Developed by Mashudu Luvhengo");
             System.out.println("--------------------------------");
-            System.out.println("Main Menu");
+            System.out.println("\t\t\tMain Menu");
             System.out.println("--------------------------------");
-            System.out.println("1. View Files in directory\n2. Files Menu\n0. Exit");
+            System.out.println("\n1. View Files in directory\n2. Files Menu\n0. Exit");
             System.out.println();
             System.out.print("Pick your choice: ");
             int mainMenuChoice = sc.nextInt();
@@ -27,22 +28,22 @@ public class FileMain {
                 case 2:
                     while(true) {
                         System.out.println("--------------------------------");
-                        System.out.println("File Menu");
+                        System.out.println("\t\t\tFile Menu");
                         System.out.println("--------------------------------");
-                        System.out.println("1. Create a file\n2. Delete a file\n3. Search for a file\n0. Back to Main Menu");
+                        System.out.println("\n1. Create a file\n2. Delete a file\n3. Search for a file\n0. Back to Main Menu");
                         System.out.println();
                         System.out.println("Pick your choice: ");
                         int fileMenuChoice = sc.nextInt();
 
                         switch(fileMenuChoice) {
                             case 1:
-                                System.out.println("Adding new file");
+                                fm.createFile();
                                 break;
                             case 2:
-                                System.out.println("Deleting file");
+                                fm.deleteFile();
                                 break;
                             case 3:
-                                System.out.println("Searching file");
+                                fm.searchFile();
                                 break;
                             default:
                                 System.out.println("Enter a valid number");
