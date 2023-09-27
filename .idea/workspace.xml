@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a58d5c-f318-41cd-a67b-8bb113f1903b" name="Changes" comment="initial commit">
+    <list default="true" id="61a58d5c-f318-41cd-a67b-8bb113f1903b" name="Changes" comment="added submenu to the main menu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lockedme/FileMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lockedme/FileMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lockedme/FileManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lockedme/FileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +44,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695825100192</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added submenu to the main menu">
+      <created>1695827695489</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695827695489</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,7 +87,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="updateMenu" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -93,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="added submenu to the main menu" />
+    <option name="LAST_COMMIT_MESSAGE" value="added submenu to the main menu" />
   </component>
 </project>
