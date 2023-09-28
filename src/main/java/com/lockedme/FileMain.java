@@ -74,8 +74,11 @@ public class FileMain {
                                     case 3:
                                         fm.searchFile();
                                         break;
+                                    case 0:
+                                        break;
                                     default:
                                         System.out.println("Enter a valid number");
+                                        break;
                                 }
                                 if (fileMenuChoice == 0)
                                 {

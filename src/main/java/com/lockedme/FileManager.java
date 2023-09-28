@@ -75,7 +75,7 @@ public class FileManager {
                     }
                 }
 
-                if (fileFound)
+                if (fileFound == true)
                 {
                     System.out.println("File '" + searchFileName + "' found in directory.");
                 }
