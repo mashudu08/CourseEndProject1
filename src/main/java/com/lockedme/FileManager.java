@@ -112,9 +112,6 @@ public class FileManager {
                     System.out.println(f);
                 }
             }
-            else {
-                System.out.println();
-            }
         }
         catch(Exception ex)
         {
