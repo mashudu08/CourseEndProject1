@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a58d5c-f318-41cd-a67b-8bb113f1903b" name="Changes" comment="updated searchFile function">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lockedme/FileMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lockedme/FileMain.java" afterDir="false" />
+    <list default="true" id="61a58d5c-f318-41cd-a67b-8bb113f1903b" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lockedme/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lockedme/FileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695885354950</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update">
+      <created>1695886799533</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695886799533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +151,7 @@
     <MESSAGE value="added createFile function" />
     <MESSAGE value="update on functions" />
     <MESSAGE value="updated searchFile function" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated searchFile function" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
