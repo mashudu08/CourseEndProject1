@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61a58d5c-f318-41cd-a67b-8bb113f1903b" name="Changes" comment="update on functions">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="61a58d5c-f318-41cd-a67b-8bb113f1903b" name="Changes" comment="updated searchFile function">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lockedme/FileMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lockedme/FileMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/lockedme/FileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lockedme/FileManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
