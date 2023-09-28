@@ -91,7 +91,7 @@ public class FileManager {
         }
     }
 
-    // method retrieves and displays files sorted in ascending order using insertion sort
+    // method retrieves and displays files are sorted in ascending order using insertion sort
     public void listOfFiles() throws Exception
     {
         try {
