@@ -72,8 +72,6 @@ public class FileManager {
                     {
                         fileFound = true;
                         break; // exit loop if match found
-                    } else {
-                        System.out.println("File not found.");
                     }
                 }
 
